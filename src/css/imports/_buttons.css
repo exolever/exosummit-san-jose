@@ -1,0 +1,12 @@
+.btn {
+  display: inline-block;
+  padding: 16px 20px 14px;
+  font-size: var(--font-size);
+  line-height: 1.25;
+  background-color: var(--white);
+  border-radius: var(--border-radius);
+  text-decoration: none;
+  font-weight: var(--bold-font-weight);
+  color: var(--primary);
+  text-align: center;
+}

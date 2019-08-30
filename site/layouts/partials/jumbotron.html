@@ -1,0 +1,34 @@
+<div class="pv2 pv3-l pt2 ph3 bg-center cover" style="background-image: url('/img/hero/hero.png')">
+  <div class="mw7 center ph3 ">
+    <div class="db mb3 rectangle pv4 ph3">
+      <div class="mw7 relative ">
+        {{ if .subtitle }}
+        <p class="b fp16 di lh-title mb3 secondary mw6">
+          {{.subtitle}}
+        </p>
+        {{ end }}
+      </div>
+      <div class="mx-jumbotron relative mb3">
+        <h1 class="fp48 b di lh-title mb3 white ">
+          {{.title}}
+        </h1>
+      </div>
+      <div class="relative mb1">
+        <p class="fp18 di lh-title mb3 black mw6">
+          <i class="fas fa-map-marker-alt orange"></i><span class="secondary"> {{.location}}</span>
+        </p>
+      </div>
+      <div class="relative mb3">
+        <p class="fp18 di lh-title mb3 black mw6 ">
+          <i class="fas fa-calendar-alt orange"></i><span class="secondary"> {{.when}}</span>
+        </p>
+      </div>
+      <a href="#signup" class="mt3 btn b mb3 bg-orange white w-100 w-auto-ns mb0-ns fp16">
+        SIGN UP
+      </a>
+      <a href="#" class="mt3 btn mb3 w-100 w-auto-ns mb0-ns bg-transparent orange fp16 join-button" >
+        I'M INTERESTED
+      </a>
+    </div>
+  </div>
+</div>
