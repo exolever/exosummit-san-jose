@@ -1,17 +1,25 @@
 {{ define "main" }}
 
+
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle "location" .Params.location "when" .Params.when) }}
 {{ partial "signup" .}}
-{{ partial "short-text" .Params.blurb}}
-{{ partial "model" (dict "about" .Params.about) }}
+
+
+{{ with .Params.blurb }}
+{{ partial "short-text" . }}
+{{ end }}
+
+
 {{ partial "program" .Params.program }}
-{{ partial "organizations" (dict "logos" .Params.logos) }}
-{{ partial "speakers" . }}
-{{ partial "organizers" . }}
-{{ partial "allies" . }}
+
+
+{{ partial "model" .Params }}
+{{ partial "organizations" .Params }}
+{{ partial "speakers" .Params.speakers }}
+{{ partial "organizers" .Params.organizers }}
 {{ partial "join" .}}
-{{ partial "quotes" (dict "carousel" .Params.carousel)}}
-{{ partial "save-form" (dict "saveURL" .Params.saveURL "text" .Params.save.text  "eventId" .Params.save.eventId) }}
+{{ partial "quotes" .Params}}
+{{ partial "save-form" . }}
 {{ partial "scripts.html" . }}
 <!-- Go to www.addthis.com/dashboard to customize your tools -->
 <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5bbc3d8edc1254fc"></script>

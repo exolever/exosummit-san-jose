@@ -1,0 +1,22 @@
+.join-box {
+    min-height: 420px;
+    border-radius: 16px;
+    background-color: #ffe6c2;
+    padding: 16px;
+}
+.join-box-wrapper {
+    width: 100%;
+}
+.join-box-wrapper:last-child {
+    margin-right: 0;
+}
+
+@media (max-width: 640px) {
+    .join-box {
+        min-height: unset;
+        margin-right: 0 !important;
+    }
+    .join-wrapper .btn {
+        width: max-content;
+    }
+}
