@@ -1,14 +1,16 @@
-  <div class="pv5">
+  <div class="push-bottom-xxl wrapper">
       <div class="mhn1-l center wp-960">
-        <div class=" mb4 w-100 primary fp32 b tc">Allies / Partners / Sponsors</div>
+        <div class="push-bottom w-100 dark-blue fp24 b tc">{{ i18n "partners-title" }}</div>
         <div class="w-100-l ">
+            {{ if .allies }}
           <div class="allies">
-              {{ range .Params.allies }}
+              {{ range .allies }}
               <div class="tc">
                   <img src="{{.image}}">
               </div>
               {{ end }}
           </div>
+            {{ end }}
         </div>
       </div>
   </div>
