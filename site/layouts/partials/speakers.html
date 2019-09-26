@@ -1,9 +1,9 @@
 <div class="push-bottom-xxl speakers-wrapper">
   <div class="mhn1-l center wp-960">
     <div class=" push-bottom w-100 primary fp32 b tc">{{ i18n "featured-guests" }}</div>
-    <div class="w-100-l flex-l ">
+    <div class="w-100-l flex-l flex-wrap-l">
       {{ range . }}
-        <div class="w-33 push-right-sm speaker push-bottom">
+        <div class="w-30 push-right-sm speaker push-bottom">
           <img src="{{.image}}" class="tc boxs">
           <h1 class="b dark-blue fp24 tc push-top-sm push-bottom-xxs">{{.title}}</h1>
           <h2 class="fp16 grey-3 tc push-bottom-sm">{{.subtitle | safeHTML}}</h2>

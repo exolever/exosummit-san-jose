@@ -1,7 +1,7 @@
 - id: download_program
-  translation: "DESCARGAR EL PROGRAMA"
+  translation: "VER PROGRAMA"
 - id: signup
-  translation: "REGISTRAR"
+  translation: "REGISTRARME"
 - id: interested
   translation: "ESTOY INTERESADO"
 - id: about-organizers
@@ -35,7 +35,7 @@
 - id: email
   translation: "Email"
 - id: visit-webpage
-  translation: "VISITA LA WEBPAGE"
+  translation: "VISITA WEB"
 - id: agreement-1
   translation: "Entiendo y estoy de acuerdo con la "
 - id: agreement-2
@@ -55,5 +55,5 @@
 - id: price
   translation: "Precio"
 - id: join-btn
-  translation: "UNIRME"
+  translation: "COMPRAR"
 
