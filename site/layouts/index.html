@@ -1,7 +1,7 @@
 {{ define "main" }}
 
 
-{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle "location" .Params.location "when" .Params.when) }}
+{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "head" .Params.head "subtitle" .Params.subtitle "location" .Params.location "when" .Params.when) }}
 {{ partial "signup" .}}
 
 
@@ -22,5 +22,5 @@
 {{ partial "save-form" . }}
 {{ partial "scripts.html" . }}
 <!-- Go to www.addthis.com/dashboard to customize your tools -->
-<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5bbc3d8edc1254fc"></script>
+<!--<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5bbc3d8edc1254fc"></script>-->
 {{ end }}

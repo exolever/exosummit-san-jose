@@ -1,48 +1,16 @@
 <!-- Contact -->
 <div id="modal-box" class="modal">
   <!-- Modal content -->
-  <div class="modal-content">
-    <div class="modal-header">
-      {{ i18n "interested" }}<span class="close">&times;</span>
-    </div>
-    <div class="modal-body">
-      <div class="title">{{ .Params.title}}</div>
-      <div class="divider"></div>
-      <div id="form-layer">
-        <form id="form-sign-up" action="{{ .Params.signUpApi }}" method="post" validate data-hubspotproperty="SUMMITS_SIGNUPS">
-          <p>{{ i18n "get-news" }} </p>
-          <input type='hidden' name='custom' id='custom' value="{{.Params.onboarding_text}}">
-          <div class="label mv2">{{ i18n "first-name" }} *</div>
-          <div class=" mv2"><input type="text" name="first_name" required id="first_name"/></div>
-          <div class="label mv2">{{ i18n "last-name" }} *</div>
-          <div class=" mv2"><input type="text" name="last_name" required id="last_name"/></div>
-          <div class="label mv2">{{ i18n "email" }} *</div>
-          <div class="mv2"><input type="email" name="email" required id="email" /></div>
-          <div class="label mv2">
-            <input type="checkbox" name="privacy" required id="privacy" />
-            {{ i18n "agreement-1" }}
-            <a href="https://www.openexo.com/privacy-policy" target="_blank" class="without-hover">{{ i18n "agreement-2" }} *</a>
-          </div>
-          <div class="buttons tc center">
-            <input type="submit" class="btn bg-primary white" id="sign-button"/>
-          </div>
-        </form>
-      </div>
-      <div id="form-layer-ok">
-        <div class="title">{{ i18n "signed-community" }}</div>
-        <div class="subtitle">{{ i18n "stay-tunned" }}</div>
-        <div>
-            <button class="button-close btn bg-primary white">OK</button>
-          </div>
-      </div>
-      <div id="form-layer-ko">
-        <div class="title">{{ i18n "strange" }}</div>
-        <div class="subtitle">{{ i18n "strange-subtitle" }}</div>
-        <div>
-          <button class="button-close btn bg-grey-2 white">{{ i18n "try-again" }}</button>
-          <button class="button-try btn bg-primary white">{{ i18n "ok" }}</button>
-        </div>
-      </div>
-    </div>
+  <div class="modal-content pv3-l ph3">
+    <!--[if lte IE 8]>
+    <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2-legacy.js"></script>
+    <![endif]-->
+    <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script>
+    <script>
+      hbspt.forms.create({
+        portalId: "5510631",
+        formId: "e9aaccae-2553-48d1-8223-d363712834b7"
+      });
+    </script>
   </div>
 </div>

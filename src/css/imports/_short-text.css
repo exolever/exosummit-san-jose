@@ -7,3 +7,13 @@
     .wrapper-short-text h2 {text-align: center;}
     .wrapper-short-text .text-wrapper {margin-left: 0 !important;}
 }
+
+.short-body p:last-child{
+    margin-bottom: 0;
+}
+
+.image-wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}

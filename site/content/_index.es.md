@@ -1,8 +1,10 @@
 ---
 title: ExO Summit Costa Rica 2019
+head: >
+    ExO Summit<br>Costa Rica 2019
 subtitle: 'OPENEXO Y GRUPO CERCA PRESENTAN'
-location: 'Centro de Convenciones CRCC, San José'
-when: '20 Noviembre'
+location: 'Centro de Convenciones CRCC, San José.'
+when: '20 Noviembre 7:30 - 17:00 (CST)'
 contact_email: raquel.vega@grupocerca.com
 buy_url: "https://www.openexo.com"
 program: /dubai_exo_summit_2019.pdf
@@ -27,34 +29,49 @@ program:
     description: >
       A diferencia de muchos otros eventos, el objetivo del ExO Summit no es sólo inspirar, sino <strong>empoderar a los líderes del momento</strong> (a través de talleres prácticos, reuniones personalizadas, testimonios directos y casos de estudio) con las herramientas y el soporte que necesitan para poder empezar la transformación exponencial al día siguiente del evento.
     items:
-      - text: Transformar la visión ante las nuevas tecnologías exponenciales
-      - text: Proporcionar a las empresas una opción de estructura adaptable y disruptiva
-      - text: Dotar de herramientas para implementar un cambio basado en la situación tecnológica actual
-      - text: Proveer una red de contactos de clase mundial (ExO Community)
+      - text: Transformar la visión ante las <strong>nuevas tecnologías exponenciales</strong>
+      - text: Proporcionar a las empresas una opción de <strong>estructura adaptable y disruptiva</strong>
+      - text: Dotar de <strong>herramientas para implementar</strong> un cambio basado en la situación tecnológica actual
+      - text: Proveer una <strong>red de contactos</strong> de clase mundial (ExO Community)
 speakers:
-    - title: Salim Ismail
-      subtitle: 'Co-founder and Chairman at OpenExO<br/>Canada'
+    - title: Salim Ismail (Virtual)
+      subtitle: 'Co-fundador y Presidente OpenExO<br/>Canada'
       image: /img/bio/salim_2x.jpg
       description: >
-        Founding member of Singularity University, board member at Prize Foundation and keynote speaker, Salim is a leading technology strategist who launched the global ExO movement with his bestselling book Exponentials Organizations.
+        Miembro fundador de Singularity University y autor del best seller Organizaciones Exponenciales, Salim es un reconocido emprendedor y líder futurista que trabaja con compañías Fortune 5,000 para ayudarlas a transformar sus prácticas de negocio de lineales a exponenciales.
     - title: Francisco Palao
-      subtitle: 'Vice-Chairman at OpenExO<br/>Spain'
+      subtitle: 'CEO OpenExO<br/>España'
       image: /img/bio/palao_2x.jpg
       description: >
-        Co-author of the ExO Sprint and main author of the Exponential Transformation book, Francisco is an award-winning innovator who has inspired and advised organizations around the world to design and implement disruptive innovation strategies for various industries.
+        Autor principal del libro Transformación Exponencial y asesor en Singularity University, Francisco es un galardonado emprendedor (premio MIT TR35 2012, entre otros) que ha inspirado y asesorado a organizaciones de todo el mundo para diseñar e implementar estrategias de innovación disruptiva. 
     - title: Corina Almagro
-      subtitle: 'ExO Certified Coach and Trainer<br/>USA'
+      subtitle: 'Coach, facilitadora y embajadora ExO<br/>USA'
       image: /img/bio/corina_2x.jpg
       description: >
-        Corina brings more than 3 years of ExO coaching practice in different industries and company sizes. Prior to ExO, she drove the HP PC business transformation, which provided her with a deep understanding of how organizations work and the internal challenges they face when it comes to innovation and disruption.
-
+        Exgerente de innovación de HP en Silicon Valley, Corina llega a Costa Rica con más de 3 años de experiencia como coach de ExO, trabajando con empresas como Visa, Black and Decker, Banco Santander o Boston Scientific en su transformación exponencial.
+    - title: Marcelo Burman
+      subtitle: 'CEO Grupo Cerca -  ExO Certified Coach and Trainer<br/>Argentina'
+      image: /img/bio/marcelospeak.jpg
+      description: >
+        Marcelo Burman, argentino de origen y residente en Costa Rica es un “emprendedor serial”, habiendo iniciado distintos proyectos en Argentina hasta el año 2002 y desde ahí América Central. Es conferencista, entrenador y coach en Transformación Exponencial y lidera proyectos de transformación digital en diversas empresas.
+    - title: Cesar Castro
+      subtitle: 'Socio Gerente Escalate Group y Flud Chains<br/>USA'
+      image: /img/bio/cesar_2.jpg
+      description: >
+        César Castro es fundador y socio gerente de Escalate Group, firma de consultoría que visualiza, acelera y escala la innovación disruptiva y la transformación digital para organizaciones y líderes que buscan seguir siendo relevantes durante la 4ta Revolución Industrial. También es cofundador de Blockchain Accelerator Fluid Chains.
+    - title: Eduardo Labarca
+      subtitle: 'CEO & Founder at ExOAgile - ExO Certified Coach and Trainer<br/>España'
+      image: /img/bio/elabarca2.png
+      description: >
+        Fundador de ExOAgile, Emprendedor serial en Robótica e IoT, premiado como innovador MIT TR35 y por Fraunhofer. Especialista en management y liderazgo ágil de equipos de alto desempeño y disrupción tecnológica.
+          
 organizers:
     - image: /img/openexo-logo/openexo-logo-rgb-no-security.png
       url: https://www.openexo.com
       description: >
         <p>OpenExO es la comunidad de transformación global de más de 1,500 coaches, inversores, consultores y especialistas en innovación que ayudan a organizaciones, instituciones y personas a desbloquear la abundancia para cambiar el mundo.</p>
-    - image: /img/acme-logo/acme-logo.png
-      url: https://www.acme.com
+    - image: /img/cerca/cerca-logo-color.png
+      url: https://revistamyt.com/
       description: >
         <p>Grupo Cerca es la plataforma de comunicación B2B más grande América Central, con más de 50 eventos realizados por año y amplia experiencia en formación, información y networking para empresas de la región.</p>
 signup:
@@ -83,26 +100,28 @@ carousel:
   - image: /img/quote2.png
   - image: /img/quote3.png
   - image: /img/quote4.png
+join:
+    title: "Únete al ExO Summit Costa Rica 2019"
 prices:
   - name: "Entrada General"
-    price: >
-        <ul>
-           <li>Super Early Bird: 300 + IVA</li>
-           <li>Early Bird: 350 + IVA</li>
-           <li>Precio oficial: 490 + IVA</li>
-         </ul>
+    description: >
+          <ul>
+            <li>Kit de bienvenida</li>
+            <li>Entrada a conferencias</li>
+            <li>Acceso a breakout rooms</li>
+            <li>Material de apoyo</li>
+            <li>Libro"Transformación Exponencial"</li>
+            <li>Alimentación</li>
+          </ul>
+    buy_link: "https://www.eventbrite.es/e/entradas-exo-summit-costa-rica-2019-74061220103"
   - name: "Entrada VIP"
     description: >
       <ul>
-        <li>Almuerzo con  Francisco Palao</li>
-        <li>1 hora de coaching individual con un ExO Certified Coach</li>
-        <li>Maximo 30 campos</li>
-        <li>Sitio preferencial</li>
+        <li>Cupo limitado (máximo 30 espacios)</li>
+        <li>Entrada general </li>
+        <li>Lugar preferencial.</li>
+        <li>Almuerzo con Francisco Palao</li>
+        <li>45 min de coaching individual con un ExO Certified Coach</li>
       </ul>
-    price: >
-           <ul>
-              <li>Super Early Bird: 450 + IVA</li>
-              <li>Early Bird: 550 + IVA</li>
-              <li>Precio oficial: 650 + IVA</li>
-            </ul>
+    buy_link: "https://www.eventbrite.es/e/entradas-exo-summit-costa-rica-2019-74061220103"
 ---

@@ -1,5 +1,6 @@
 ---
 title: ExO Summit London 2019
+head: ExO Summit Costa Rica 2019
 subtitle: 'OPENEXO & ACME PRESENT'
 location: 'London, United Kingdom'
 when: '12 November'
@@ -83,26 +84,28 @@ carousel:
   - image: /img/quote2.png
   - image: /img/quote3.png
   - image: /img/quote4.png
+join:
+    title: "Join to ExO Summit"
 prices:
   - name: "Entrada General"
-    price: >
-        <ul>
-           <li>Super Early Bird: 300 + IVA</li>
-           <li>Early Bird: 350 + IVA</li>
-           <li>Precio oficial: 490 + IVA</li>
-         </ul>
+    description: >
+          <ul>
+            <li>Kit de bienvenida</li>
+            <li>Entrada a conferencias</li>
+            <li>Acceso a breakout rooms</li>
+            <li>Material de apoyo</li>
+            <li>Libro"Transformación Exponencial"</li>
+            <li>Alimentación</li>
+          </ul>
+    buy_link: "https://www.eventbrite.es/e/entradas-exo-summit-costa-rica-2019-74061220103"
   - name: "Entrada VIP"
     description: >
       <ul>
-        <li>Almuerzo con  Francisco Palao</li>
-        <li>1 hora de coaching individual con un ExO Certified Coach</li>
-        <li>Maximo 30 campos</li>
-        <li>Sitio preferencial</li>
+        <li>Cupo limitado (máximo 30 espacios)</li>
+        <li>Entrada general </li>
+        <li>Lugar preferencial.</li>
+        <li>Almuerzo con Francisco Palao</li>
+        <li>45 min de coaching individual con un ExO Certified Coach</li>
       </ul>
-    price: >
-           <ul>
-              <li>Super Early Bird: 450 + IVA</li>
-              <li>Early Bird: 550 + IVA</li>
-              <li>Precio oficial: 650 + IVA</li>
-            </ul>
+    buy_link: "https://www.eventbrite.es/e/entradas-exo-summit-costa-rica-2019-74061220103"
 ---
