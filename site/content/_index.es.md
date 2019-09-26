@@ -25,7 +25,7 @@ blurb:
       <p>El ExO Summit es un evento de carácter muy práctico donde líderes mundiales, ejecutivos, emprendedores y agentes de cambio se reúnen para compartir sus experiencias transformadoras, intercambiar ideas, desafiar creencias y atreverse a transformar nuestro tejido empresarial utilizando el Modelo ExO.</p>
       <p>Te invitamos a ser parte de este primer ExO Summit en América Central y el Caribe para experimentar el poder del Modelo ExO que ya ha transformado a múltiples compañías, personas e instituciones en todo el mundo.</p>
 program:
-    heading: "Que encontrarás en este Summit"
+    heading: "Qué encontrarás en este Summit"
     description: >
       A diferencia de muchos otros eventos, el objetivo del ExO Summit no es sólo inspirar, sino <strong>empoderar a los líderes del momento</strong> (a través de talleres prácticos, reuniones personalizadas, testimonios directos y casos de estudio) con las herramientas y el soporte que necesitan para poder empezar la transformación exponencial al día siguiente del evento.
     items:
@@ -51,9 +51,9 @@ speakers:
         Exgerente de innovación de HP en Silicon Valley, Corina llega a Costa Rica con más de 3 años de experiencia como coach de ExO, trabajando con empresas como Visa, Black and Decker, Banco Santander o Boston Scientific en su transformación exponencial.
     - title: Marcelo Burman
       subtitle: 'CEO Grupo Cerca -  ExO Certified Coach and Trainer<br/>Argentina'
-      image: /img/bio/marcelospeak.jpg
+      image: /img/bio/marcelo.jpg
       description: >
-        Marcelo Burman, argentino de origen y residente en Costa Rica es un “emprendedor serial”, habiendo iniciado distintos proyectos en Argentina hasta el año 2002 y desde ahí América Central. Es conferencista, entrenador y coach en Transformación Exponencial y lidera proyectos de transformación digital en diversas empresas.
+        Marcelo Burman, argentino de origen y residente en Costa Rica, es un “emprendedor serial”, habiendo iniciado distintos proyectos en Argentina hasta el año 2002 y desde ahí América Central. Es conferencista, entrenador y coach en Transformación Exponencial y lidera proyectos de transformación digital en diversas empresas.
     - title: Cesar Castro
       subtitle: 'Socio Gerente Escalate Group y Flud Chains<br/>USA'
       image: /img/bio/cesar_2.jpg
@@ -63,7 +63,7 @@ speakers:
       subtitle: 'CEO & Founder at ExOAgile - ExO Certified Coach and Trainer<br/>España'
       image: /img/bio/elabarca2.png
       description: >
-        Fundador de ExOAgile, Emprendedor serial en Robótica e IoT, premiado como innovador MIT TR35 y por Fraunhofer. Especialista en management y liderazgo ágil de equipos de alto desempeño y disrupción tecnológica.
+        Fundador de ExOAgile, emprendedor serial en robótica e IoT, premiado como innovador MIT TR35 y por Fraunhofer. Especialista en management y liderazgo ágil de equipos de alto desempeño y disrupción tecnológica.
           
 organizers:
     - image: /img/openexo-logo/openexo-logo-rgb-no-security.png
