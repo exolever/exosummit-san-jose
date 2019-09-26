@@ -13,8 +13,6 @@
   background-size: cover;
   height: 570px;
   /*background-image: url('/img/hero/hero.png');*/
-  background-image: url({{"/img/hero/hero.png" | relURL }});
-
   width: 100%;
 }
 .green-box {
