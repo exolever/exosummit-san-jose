@@ -12,6 +12,7 @@
   background-repeat: no-repeat;
   background-size: cover;
   height: 570px;
+  /*Don't use absolute paths in CSS because sometimes the page can be loaded from a subdirectory */
   /*background-image: url('/img/hero/hero.png');*/
   width: 100%;
 }
