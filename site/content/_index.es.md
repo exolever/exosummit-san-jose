@@ -110,7 +110,6 @@ prices:
             <li>Entrada a conferencias</li>
             <li>Acceso a breakout rooms</li>
             <li>Material de apoyo</li>
-            <li>Libro"Transformación Exponencial"</li>
             <li>Alimentación</li>
           </ul>
     buy_link: "https://www.eventbrite.es/e/entradas-exo-summit-costa-rica-2019-74061220103"
