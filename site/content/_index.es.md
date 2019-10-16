@@ -55,7 +55,7 @@ speakers:
       description: >
         Marcelo Burman, argentino de origen y residente en Costa Rica, es un “emprendedor serial”, habiendo iniciado distintos proyectos en Argentina hasta el año 2002 y desde ahí América Central. Es conferencista, entrenador y coach en Transformación Exponencial y lidera proyectos de transformación digital en diversas empresas.
     - title: Cesar Castro
-      subtitle: 'Socio Gerente Escalate Group y Flud Chains<br/>USA'
+      subtitle: 'Socio Gerente Escalate Group y Fluid Chains<br/>USA'
       image: /img/bio/cesar_2.jpg
       description: >
         César Castro es fundador y socio gerente de Escalate Group, firma de consultoría que visualiza, acelera y escala la innovación disruptiva y la transformación digital para organizaciones y líderes que buscan seguir siendo relevantes durante la 4ta Revolución Industrial. También es cofundador de Blockchain Accelerator Fluid Chains.
