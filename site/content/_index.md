@@ -24,6 +24,7 @@ blurb:
       <p>The ExO Summit is a very practical event where world leaders, executives, entrepreneurs and game changers get together to share their transformative experiences, exchange ideas, challenge beliefs and dare to transform our organizations using the ExO Model.</p>
      
 program:
+    link: "/cr_summit_programa.pdf"
     heading: "What you will find in this summit"
     description: >
       Unlike many other events, the objective of the ExO Summit is not only to inspire, but to empower current leaders (through testimonials, case studies, personalized meetings and workshops) with the tools and support they need to start the exponential transformation the day after the event.

@@ -7,7 +7,6 @@ location: 'Centro de Convenciones CRCC, San José.'
 when: '20 Noviembre 7:30 - 17:00 (CST)'
 contact_email: raquel.vega@grupocerca.com
 buy_url: "https://www.openexo.com"
-program: /dubai_exo_summit_2019.pdf
 signUpApi: https://exo4432.qa.exolever.com/api/accounts/join-us/
 onboarding_text: >
   <p>Now you can get event-related updates and ask questions to the community. </p>
@@ -25,6 +24,7 @@ blurb:
       <p>El ExO Summit es un evento de carácter muy práctico donde líderes mundiales, ejecutivos, emprendedores y agentes de cambio se reúnen para compartir sus experiencias transformadoras, intercambiar ideas, desafiar creencias y atreverse a transformar nuestro tejido empresarial utilizando el Modelo ExO.</p>
       <p>Te invitamos a ser parte de este primer ExO Summit en América Central y el Caribe para experimentar el poder del Modelo ExO que ya ha transformado a múltiples compañías, personas e instituciones en todo el mundo.</p>
 program:
+    link: "/cr_summit_programa.pdf"
     heading: "Qué encontrarás en este Summit"
     description: >
       A diferencia de muchos otros eventos, el objetivo del ExO Summit no es sólo inspirar, sino <strong>empoderar a los líderes del momento</strong> (a través de talleres prácticos, reuniones personalizadas, testimonios directos y casos de estudio) con las herramientas y el soporte que necesitan para poder empezar la transformación exponencial al día siguiente del evento.

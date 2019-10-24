@@ -2,7 +2,7 @@
     <div class="flex-l mhn1-l center wp-960">
         <div class=" mb2 w-30-l fp32 primary b title">
             {{.heading}}
-            <a class="btn w-100 bg-orange white fp16 push-top download-btn-dp" href="{{.Params.program}}"
+            <a class="btn w-100 bg-orange white fp16 push-top download-btn-dp" href="{{.link}}"
                target="_blank">
                 {{ i18n "download_program" }}
             </a>
@@ -19,7 +19,7 @@
             </ul>
             {{ end }}
         </div>
-        <a class="btn w-100 bg-orange white fp16 push-top download-btn-mb" href="{{.Params.program}}" target="_blank">
+        <a class="btn w-100 bg-orange white fp16 push-top download-btn-mb" href="{{.Params.program}}" download target="_blank">
             {{ i18n "download_program" }}
         </a>
     </div>
