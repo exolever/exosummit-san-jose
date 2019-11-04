@@ -3,8 +3,8 @@ title: ExO Summit Costa Rica 2019
 head: >
     ExO Summit<br>Costa Rica 2019
 subtitle: 'OPENEXO Y GRUPO CERCA PRESENTAN'
-location: 'Centro de Convenciones CRCC, San José.'
-when: '20 Noviembre 7:30 - 17:00 (CST)'
+location: 'Centro de Convenciones CRCC, San José'
+when: '10 Diciembre 7:30 - 17:00 (CST)'
 contact_email: raquel.vega@grupocerca.com
 buy_url: "https://www.openexo.com"
 signUpApi: https://exo4432.qa.exolever.com/api/accounts/join-us/
@@ -45,22 +45,22 @@ speakers:
       description: >
         Autor principal del libro Transformación Exponencial y asesor en Singularity University, Francisco es un galardonado emprendedor (premio MIT TR35 2012, entre otros) que ha inspirado y asesorado a organizaciones de todo el mundo para diseñar e implementar estrategias de innovación disruptiva. 
     - title: Corina Almagro
-      subtitle: 'Coach, facilitadora y embajadora ExO<br/>USA'
-      image: /img/bio/corina_2x.jpg
+      subtitle: 'Coach, facilitadora y embajadora ExO, Chile'
+      image: /img/bio/corina_2x.png
       description: >
         Exgerente de innovación de HP en Silicon Valley, Corina llega a Costa Rica con más de 3 años de experiencia como coach de ExO, trabajando con empresas como Visa, Black and Decker, Banco Santander o Boston Scientific en su transformación exponencial.
     - title: Marcelo Burman
-      subtitle: 'CEO Grupo Cerca -  ExO Certified Coach and Trainer<br/>Argentina'
+      subtitle: 'CEO Grupo Cerca -  ExO Certified Coach and Trainer, Argentina'
       image: /img/bio/marcelo.jpg
       description: >
         Marcelo Burman, argentino de origen y residente en Costa Rica, es un “emprendedor serial”, habiendo iniciado distintos proyectos en Argentina hasta el año 2002 y desde ahí América Central. Es conferencista, entrenador y coach en Transformación Exponencial y lidera proyectos de transformación digital en diversas empresas.
     - title: Cesar Castro
-      subtitle: 'Socio Gerente Escalate Group y Fluid Chains<br/>USA'
+      subtitle: 'Socio Gerente Escalate Group y Fluid Chains, USA'
       image: /img/bio/cesar_2.jpg
       description: >
         César Castro es fundador y socio gerente de Escalate Group, firma de consultoría que visualiza, acelera y escala la innovación disruptiva y la transformación digital para organizaciones y líderes que buscan seguir siendo relevantes durante la 4ta Revolución Industrial. También es cofundador de Blockchain Accelerator Fluid Chains.
     - title: Eduardo Labarca
-      subtitle: 'CEO & Founder at ExOAgile - ExO Certified Coach and Trainer<br/>España'
+      subtitle: 'CEO & Founder at ExOAgile - ExO Certified Coach and Trainer, España'
       image: /img/bio/elabarca2.png
       description: >
         Fundador de ExOAgile, emprendedor serial en robótica e IoT, premiado como innovador MIT TR35 y por Fraunhofer. Especialista en management y liderazgo ágil de equipos de alto desempeño y disrupción tecnológica.
@@ -71,7 +71,7 @@ organizers:
       description: >
         <p>OpenExO es la comunidad de transformación global de más de 1,500 coaches, inversores, consultores y especialistas en innovación que ayudan a organizaciones, instituciones y personas a desbloquear la abundancia para cambiar el mundo.</p>
     - image: /img/cerca/cerca-logo-color.png
-      url: https://revistamyt.com/
+      url:  https://grupocerca.com/
       description: >
         <p>Grupo Cerca es la plataforma de comunicación B2B más grande América Central, con más de 50 eventos realizados por año y amplia experiencia en formación, información y networking para empresas de la región.</p>
 signup:
@@ -82,7 +82,7 @@ save:
     text: "Introductory text"
     eventId: 1
 about:
-  title: Acerca de ExO Model
+  title: Acerca del Modelo ExO
   text: El Modelo ExO (por sus siglas en inglés Exponential Organizations), basado en el best-seller <a href="https://www.openexo.com/books" target="_blank">‘Organizaciones Exponenciales’</a>, ofrece una guía para diseñar Organizaciones Exponenciales mediante la aplicación de 10 atributos y un proceso de 10 semanas para su implementación, llamado ExO Sprint.
 logos:
     - url: /img/airbus-logo/airbus.png
@@ -118,9 +118,13 @@ prices:
       <ul>
         <li>Cupo limitado (máximo 30 espacios)</li>
         <li>Entrada general </li>
-        <li>Lugar preferencial.</li>
+        <li>Lugar preferencial</li>
         <li>Almuerzo con Francisco Palao</li>
         <li>45 min de coaching individual con un ExO Certified Coach</li>
       </ul>
     buy_link: "https://www.eventbrite.es/e/entradas-exo-summit-costa-rica-2019-74061220103"
+promotions:
+  - title: "Reserva ya tu plaza y ahorra un 20%"
+    link: "https://www.eventbrite.es/e/entradas-exo-summit-costa-rica-2019-74061220103"
+    
 ---
