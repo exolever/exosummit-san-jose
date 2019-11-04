@@ -1,29 +1,37 @@
 <section id='signup'>
-<div class="push-top-lg pb3 pv4 bg-orange-2 join-wrapper">
-  <div class="mhn1-l center wp-960 wrapper">
-    <div class=" push-bottom w-100 primary fp32 b tc">{{.Params.join.title}}</div>
-    <div class="w-100-l mb1 flex-l justify-between">
-      {{ range .Params.prices }}
-        <div class="push-right-sm tc join-box-wrapper">
-          <div class="join-box">
-            <p class="dark-blue tc fp24 b push-bottom-sm">{{.name}}</p>
-            <p class="tl fp16">{{.description | safeHTML}}</p>
-            {{ if .price }}
-            <p class="tl b">{{ i18n "price" }} <span class="primary b">{{.price | safeHTML}}</span></p>
-            {{ end }}
-            <p>
+  <div class="push-top-lg pb3 pv4 bg-orange-2 join-wrapper">
+    <div class="mhn1-l center wp-960 wrapper">
+      <div class=" push-bottom w-100 primary fp32 b tc">{{.Params.join.title}}</div>
+      <div class="w-100-l mb1 flex-l justify-between">
+        {{ range .Params.prices }}
+          <div class="push-right-sm tc join-box-wrapper">
+            <div class="join-box">
+              <p class="dark-blue tc fp24 b push-bottom-sm">{{.name}}</p>
+              <p class="tl fp16">{{.description | safeHTML}}</p>
+              {{ if .price }}
+              <p class="tl b">{{ i18n "price" }} <span class="primary b">{{.price | safeHTML}}</span></p>
+              {{ end }}
+              <p>
+            </div>
+              <a href="{{.buy_link}}" target="_blank" class="mv3 btn b primary bg-grey-2 w-100 w-auto-ns fp16">{{ i18n "join-btn" }}</a></p>
           </div>
-            <a href="{{.buy_link}}" target="_blank" class="push-bottom push-top btn b primary bg-grey-2 w-100 w-auto-ns fp16">{{ i18n "join-btn" }}</a></p>
+        {{ end }}
+      </div>
+      <div class="w-100-l mb1 flex-l justify-around mb3">
+        {{ range .Params.promotions}}
+        <div class="white-box justify-center flex flex-column">
+          <p class="dark-blue tc fp24 b push-bottom-sm">{{.title}}</p>
+          <a href="{{.link}}" target="_blank" class="tc w-100 w-auto-ns fp16 link">{{ i18n "know-more" }}</a>
         </div>
-      {{ end }}
+        {{ end }}
+      </div>
+    </div>
+    <div class="mhn1-l flex-l center wp-960 ">
+      <div class="center w-80-l tc">
+        {{ i18n "questions" }} <a href="mailto:{{.Params.contact_email}}" target="_blank" class="w-100 w-auto-ns fp16 link">
+        {{ i18n "contact-us" }}
+          </a>
+        </div>
     </div>
   </div>
-  <div class="mhn1-l flex-l center wp-960 ">
-    <div class="center w-80-l tc">
-      {{ i18n "questions" }} <a href="mailto:{{.Params.contact_email}}" target="_blank" class="w-100 w-auto-ns fp16 link">
-      {{ i18n "contact-us" }}
-        </a>
-      </div>
-  </div>
-</div>
 </section>

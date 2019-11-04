@@ -54,3 +54,5 @@
   translation: "Price"
 - id: join-btn
   translation: "JOIN"
+- id: know-more
+  translation: "Saber más"

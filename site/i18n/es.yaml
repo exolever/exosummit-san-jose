@@ -35,7 +35,7 @@
 - id: email
   translation: "Email"
 - id: visit-webpage
-  translation: "VISITA WEB"
+  translation: "VISITAR WEB"
 - id: agreement-1
   translation: "Entiendo y estoy de acuerdo con la "
 - id: agreement-2
@@ -56,4 +56,6 @@
   translation: "Precio"
 - id: join-btn
   translation: "COMPRAR"
+- id: know-more
+  translation: "Saber más"
 
