@@ -96,10 +96,12 @@ logos:
     - url: /img/organizations/unilever.png
     - url: /img/organizations/visa.png
 carousel:
-  - image: /img/quote1.png
-  - image: /img/quote2.png
-  - image: /img/quote3.png
-  - image: /img/quote4.png
+  - image: /img/quotes/cr_quote_1.png
+  - image: /img/quotes/cr_quote_2.png
+  - image: /img/quotes/cr_quote_3.png
+  - image: /img/quotes/cr_quote_4.png
+  - image: /img/quotes/cr_quote_5.png
+  - image: /img/quotes/cr_quote_6.png
 join:
     title: "Únete al ExO Summit Costa Rica 2019"
 prices:
