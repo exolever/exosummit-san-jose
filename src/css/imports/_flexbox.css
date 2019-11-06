@@ -51,6 +51,11 @@
 .order-8 { order: 8; }
 .order-last { order: 99999; }
 
+@media (max-width: 599px) {
+  .flex-column-mobile { flex-direction: column; }
+  .flex-row-mobile { flex-direction: row; }
+}
+
 @media (--breakpoint-not-small) {
   .flex-ns { display: flex; }
   .inline-flex-ns { display: inline-flex; }
