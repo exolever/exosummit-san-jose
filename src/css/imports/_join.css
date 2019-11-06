@@ -20,10 +20,8 @@
         width: max-content;
     }
 }
-.white-box {
+.early-box {
     padding: 24px;
-    background: white;
+    background: var(--dark-blue);
     border-radius: 8px;
-    box-shadow: 0 4px 16px 0 rgba(0, 0, 0, 0.24);
-    width: 304px;
 }
