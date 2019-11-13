@@ -13,6 +13,7 @@
     overflow: hidden;
     height: 193px;
     position: relative;
+    border-radius: var(--border-radius-img);
 }
 .iframe-speaker .br-img {
     width: 100%;
