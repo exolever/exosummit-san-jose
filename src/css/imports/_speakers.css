@@ -11,6 +11,10 @@
 }
 .iframe-speaker {
     overflow: hidden;
-    height: 198px;
+    height: 193px;
     position: relative;
+}
+.iframe-speaker .br-img {
+    width: 100%;
+    height: 100%;
 }
