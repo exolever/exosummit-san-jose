@@ -9,3 +9,8 @@
         width: 100%;
     }
 }
+.iframe-speaker {
+    overflow: hidden;
+    height: 198px;
+    position: relative;
+}

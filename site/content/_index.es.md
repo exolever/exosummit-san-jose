@@ -47,6 +47,7 @@ speakers:
     - title: Corina Almagro
       subtitle: 'Coach, facilitadora y embajadora ExO, Chile'
       image: /img/bio/corina_2x.png
+      youtube: https://www.youtube.com/embed/5B5e2MWmL5M
       description: >
         Exgerente de innovación de HP en Silicon Valley, Corina llega a Costa Rica con más de 3 años de experiencia como coach de ExO, trabajando con empresas como Visa, Black and Decker, Banco Santander o Boston Scientific en su transformación exponencial.
     - title: Marcelo Burman
