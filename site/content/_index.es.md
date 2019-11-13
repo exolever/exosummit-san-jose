@@ -45,7 +45,7 @@ speakers:
       description: >
         Autor principal del libro Transformación Exponencial y asesor en Singularity University, Francisco es un galardonado emprendedor (premio MIT TR35 2012, entre otros) que ha inspirado y asesorado a organizaciones de todo el mundo para diseñar e implementar estrategias de innovación disruptiva. 
     - title: Corina Almagro
-      subtitle: 'Coach, facilitadora y embajadora ExO, Chile'
+      subtitle: 'Coach, facilitadora y embajadora ExO Chile'
       image: /img/bio/corina_2x.png
       youtube: https://www.youtube.com/embed/5B5e2MWmL5M
       description: >
