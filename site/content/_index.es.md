@@ -126,8 +126,5 @@ prices:
         <li>45 min de coaching individual con un ExO Certified Coach</li>
       </ul>
     buy_link: "https://www.eventbrite.es/e/entradas-exo-summit-costa-rica-2019-74061220103"
-promotions:
-  - title: "Reserva ya tu plaza y ahorra un 20%"
-    link: "https://www.eventbrite.es/e/entradas-exo-summit-costa-rica-2019-74061220103"
-    
+   
 ---
