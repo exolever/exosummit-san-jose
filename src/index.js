@@ -54,6 +54,7 @@ $(function(){
 
     // When the user clicks anywhere outside of the modal, close it
     window.onclick = (event) => {
+        debugger
         if (event.target == modal) {
             modal.style.display = "none";
         }
