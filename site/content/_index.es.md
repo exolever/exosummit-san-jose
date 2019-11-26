@@ -4,7 +4,7 @@ head: >
     ExO Summit<br>Costa Rica 2019
 subtitle: 'OPENEXO Y GRUPO CERCA PRESENTAN'
 location: 'Centro de Convenciones CRCC, San José'
-when: '10 Diciembre 7:30 - 17:00 (CST)'
+when: 'Coming soon'
 contact_email: raquel.vega@grupocerca.com
 buy_url: "https://www.openexo.com"
 signUpApi: https://exo4432.qa.exolever.com/api/accounts/join-us/
