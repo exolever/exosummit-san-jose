@@ -45,3 +45,5 @@ All SVG icons stored in `site/static/img/icons` are automatically optimized with
 </svg>
 ```
 😸😸😸😸😸😸😸😸😸
+😸😸😸😸😸😸😸😸😸
+
