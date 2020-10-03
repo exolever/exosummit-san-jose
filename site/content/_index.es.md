@@ -1,7 +1,7 @@
 ---
-title: ExO Summit Costa Rica 2019
+title: ExO Summit Costa Rica 2020
 head: >
-    ExO Summit<br>Costa Rica 2019
+    ExO Summit<br>Costa Rica 2020
 subtitle: 'OPENEXO Y GRUPO CERCA PRESENTAN'
 location: 'Centro de Convenciones CRCC, San José'
 when: 'Coming soon'
@@ -104,7 +104,7 @@ carousel:
   - image: /img/quotes/cr_quote_5.png
   - image: /img/quotes/cr_quote_6.png
 join:
-    title: "Únete al ExO Summit Costa Rica 2019"
+    title: "Únete al ExO Summit Costa Rica 2020"
 prices:
   - name: "Entrada General"
     description: >
