@@ -60,12 +60,7 @@ speakers:
       image: /img/bio/cesar_2.jpg
       description: >
         César Castro es fundador y socio gerente de Escalate Group, firma de consultoría que visualiza, acelera y escala la innovación disruptiva y la transformación digital para organizaciones y líderes que buscan seguir siendo relevantes durante la 4ta Revolución Industrial. También es cofundador de Blockchain Accelerator Fluid Chains.
-    - title: Eduardo Labarca
-      subtitle: 'CEO & Founder at ExOAgile - ExO Certified Coach and Trainer, España'
-      image: /img/bio/elabarca2.png
-      description: >
-        Fundador de ExOAgile, emprendedor serial en robótica e IoT, premiado como innovador MIT TR35 y por Fraunhofer. Especialista en management y liderazgo ágil de equipos de alto desempeño y disrupción tecnológica.
-          
+
 organizers:
     - image: /img/openexo-logo/openexo-logo-rgb-no-security.png
       url: https://www.openexo.com
@@ -124,6 +119,9 @@ prices:
         <li>Lugar preferencial</li>
         <li>Material de apoyo</li>
         <li>Almuerzo con Francisco Palao</li>
+        <li>Acceso a breakout rooms</li>
+        <li>Material de apoyo</li>
+        <li>Alimentación</li>
         <li>45 min de coaching individual con un ExO Certified Coach</li>
       </ul>
     buy_link: "https://www.eventbrite.es/e/entradas-exo-summit-costa-rica-2019-74061220103"
