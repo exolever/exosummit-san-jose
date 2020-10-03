@@ -76,8 +76,8 @@ organizers:
       description: >
         <p>Grupo Cerca es la plataforma de comunicación B2B más grande América Central, con más de 50 eventos realizados por año y amplia experiencia en formación, información y networking para empresas de la región.</p>
 signup:
-    heading: "Join the summit"
-    text: "Introductory text"
+    heading: "únete al summit"
+    text: "texto introductorio"
     eventId: 1
 save:
     text: "Introductory text"
@@ -122,6 +122,7 @@ prices:
         <li>Cupo limitado (máximo 30 espacios)</li>
         <li>Entrada general </li>
         <li>Lugar preferencial</li>
+        <li>Material de apoyo</li>
         <li>Almuerzo con Francisco Palao</li>
         <li>45 min de coaching individual con un ExO Certified Coach</li>
       </ul>
