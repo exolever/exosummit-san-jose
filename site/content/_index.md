@@ -4,7 +4,7 @@ head: ExO Summit Costa Rica 2019
 subtitle: 'OPENEXO & ACME PRESENT'
 location: 'London, United Kingdom'
 when: '12 November'
-contact_email: example@openexo.com
+contact_email: support@openexo.com
 buy_url: "https://www.eventbrite.es/e/entradas-gansos-rosas-el-mejor-homenaje-a-guns-and-roses-en-almeria-66299863677?aff=ehomecard"
 program: /dubai_exo_summit_2019.pdf
 signUpApi: https://devel.qa.exolever.com/api/accounts/join-us/
@@ -44,12 +44,7 @@ speakers:
       image: /img/bio/palao_2x.jpg
       description: >
         Co-author of the ExO Sprint and main author of the Exponential Transformation book, Francisco is an award-winning innovator who has inspired and advised organizations around the world to design and implement disruptive innovation strategies for various industries.
-    - title: Corina Almagro
-      subtitle: 'ExO Certified Coach and Trainer<br/>USA'
-      image: /img/bio/corina_2x.jpg
-      description: >
-        Corina brings more than 3 years of ExO coaching practice in different industries and company sizes. Prior to ExO, she drove the HP PC business transformation, which provided her with a deep understanding of how organizations work and the internal challenges they face when it comes to innovation and disruption.
-
+    
 organizers:
     - image: /img/openexo-logo/openexo-logo-rgb-no-security.png
       url: https://www.openexo.com
@@ -105,6 +100,7 @@ prices:
         <li>Cupo limitado (máximo 30 espacios)</li>
         <li>Entrada general </li>
         <li>Lugar preferencial.</li>
+        <li>Material de apoyo</li>
         <li>Almuerzo con Francisco Palao</li>
         <li>45 min de coaching individual con un ExO Certified Coach</li>
       </ul>
