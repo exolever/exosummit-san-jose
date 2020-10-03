@@ -1,5 +1,5 @@
 ---
-title: ExO Summit London 2019
+title: ExO Summit London 2020
 head: ExO Summit Costa Rica 2019
 subtitle: 'OPENEXO & ACME PRESENT'
 location: 'London, United Kingdom'
